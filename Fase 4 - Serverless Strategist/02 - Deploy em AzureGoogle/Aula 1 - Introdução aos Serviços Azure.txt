@@ -1,0 +1,8 @@
+Aula 1 - Introdução aos Serviços Azure
+Fase 4 - Serverless Strategist
+Capítulo: Deploy em Azure/Google
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=614571&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=614576
+
+Obs.: links exigem login na plataforma FIAP.

@@ -1,0 +1,8 @@
+Aula 2 - Extensões do Quarkus
+Fase 4 - Serverless Strategist
+Capítulo: Quarkus
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=614594&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=614599
+
+Obs.: links exigem login na plataforma FIAP.

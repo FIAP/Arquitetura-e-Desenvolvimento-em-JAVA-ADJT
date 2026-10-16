@@ -1,0 +1,8 @@
+Aula 4 - Testes de Integração
+Fase 2 - Data Guardian
+Capítulo: Testes Unitários e de integração
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=549520&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=549525
+
+Obs.: links exigem login na plataforma FIAP.

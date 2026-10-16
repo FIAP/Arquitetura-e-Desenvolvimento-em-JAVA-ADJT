@@ -1,0 +1,8 @@
+Aula 4 - Integração de Event Sourcing
+Fase 5 - Webflux Warrior
+Capítulo: Arquitetura de Microservices com Event Storming e CQRS
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=624067&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=624072
+
+Obs.: links exigem login na plataforma FIAP.

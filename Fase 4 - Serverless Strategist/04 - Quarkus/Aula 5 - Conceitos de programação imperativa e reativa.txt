@@ -1,0 +1,8 @@
+Aula 5 - Conceitos de programação imperativa e reativa
+Fase 4 - Serverless Strategist
+Capítulo: Quarkus
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=614597&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=614602
+
+Obs.: links exigem login na plataforma FIAP.

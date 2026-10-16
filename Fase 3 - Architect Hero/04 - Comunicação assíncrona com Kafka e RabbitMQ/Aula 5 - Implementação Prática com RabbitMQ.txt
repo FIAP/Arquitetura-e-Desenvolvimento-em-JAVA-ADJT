@@ -1,0 +1,8 @@
+Aula 5 - Implementação Prática com RabbitMQ
+Fase 3 - Architect Hero
+Capítulo: Comunicação assíncrona com Kafka e RabbitMQ
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=582510&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=582515
+
+Obs.: links exigem login na plataforma FIAP.

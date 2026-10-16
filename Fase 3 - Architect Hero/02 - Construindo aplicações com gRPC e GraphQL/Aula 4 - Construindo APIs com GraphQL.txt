@@ -1,0 +1,8 @@
+Aula 4 - Construindo APIs com GraphQL
+Fase 3 - Architect Hero
+Capítulo: Construindo aplicações com: gRPC e GraphQL
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=582491&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=582495
+
+Obs.: links exigem login na plataforma FIAP.

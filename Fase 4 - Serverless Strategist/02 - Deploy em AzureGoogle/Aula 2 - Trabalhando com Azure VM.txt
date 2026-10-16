@@ -1,0 +1,8 @@
+Aula 2 - Trabalhando com Azure VM
+Fase 4 - Serverless Strategist
+Capítulo: Deploy em Azure/Google
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=614572&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=614577
+
+Obs.: links exigem login na plataforma FIAP.

@@ -1,0 +1,8 @@
+Aula 1 - Conceitos Básicos de Arquitetura Distribuída
+Fase 3 - Architect Hero
+Capítulo: Arquitetura de Sistemas Distribuídos e Resiliência
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=582497&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=582501
+
+Obs.: links exigem login na plataforma FIAP.

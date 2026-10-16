@@ -1,0 +1,8 @@
+Aula 2 - Desenvolvimento de Microservices com Spring Boot
+Fase 5 - Webflux Warrior
+Capítulo: Microservices com Spring Boot e Spring Cloud
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=624054&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=624059
+
+Obs.: links exigem login na plataforma FIAP.

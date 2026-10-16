@@ -1,0 +1,8 @@
+Aula 3 - Produzindo e Consumindo Mensagens com Kafka
+Fase 3 - Architect Hero
+Capítulo: Comunicação assíncrona com Kafka e RabbitMQ
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=582508&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=582513
+
+Obs.: links exigem login na plataforma FIAP.

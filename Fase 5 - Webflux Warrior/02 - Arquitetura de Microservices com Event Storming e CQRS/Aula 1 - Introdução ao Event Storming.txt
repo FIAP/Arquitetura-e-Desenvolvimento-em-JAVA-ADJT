@@ -1,0 +1,8 @@
+Aula 1 - Introdução ao Event Storming
+Fase 5 - Webflux Warrior
+Capítulo: Arquitetura de Microservices com Event Storming e CQRS
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=624064&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=624069
+
+Obs.: links exigem login na plataforma FIAP.

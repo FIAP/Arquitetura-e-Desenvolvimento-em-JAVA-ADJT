@@ -1,0 +1,8 @@
+Aula 3 - Deploy de Aplicações em Azure Web Apps
+Fase 4 - Serverless Strategist
+Capítulo: Deploy em Azure/Google
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=614573&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=614578
+
+Obs.: links exigem login na plataforma FIAP.

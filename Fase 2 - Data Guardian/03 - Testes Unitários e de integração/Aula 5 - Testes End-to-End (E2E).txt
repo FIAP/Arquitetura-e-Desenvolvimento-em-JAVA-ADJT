@@ -1,0 +1,8 @@
+Aula 5 - Testes End-to-End (E2E)
+Fase 2 - Data Guardian
+Capítulo: Testes Unitários e de integração
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=549521&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=549526
+
+Obs.: links exigem login na plataforma FIAP.

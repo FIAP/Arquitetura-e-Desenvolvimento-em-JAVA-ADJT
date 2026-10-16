@@ -1,0 +1,8 @@
+Aula 3 - Índice, Procedures, Functions e Views
+Fase 2 - Data Guardian
+Capítulo: Modelagem de banco de dados
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=549495&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=549500
+
+Obs.: links exigem login na plataforma FIAP.

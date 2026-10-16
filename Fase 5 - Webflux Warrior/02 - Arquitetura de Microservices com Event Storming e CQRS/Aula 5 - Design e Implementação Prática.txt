@@ -1,0 +1,8 @@
+Aula 5 - Design e Implementação Prática
+Fase 5 - Webflux Warrior
+Capítulo: Arquitetura de Microservices com Event Storming e CQRS
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=624068&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=624073
+
+Obs.: links exigem login na plataforma FIAP.

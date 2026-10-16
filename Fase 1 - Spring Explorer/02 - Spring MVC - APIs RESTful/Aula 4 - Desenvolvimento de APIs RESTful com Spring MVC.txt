@@ -1,0 +1,8 @@
+Aula 4 - Desenvolvimento de APIs RESTful com Spring MVC
+Fase 1 - Spring Explorer
+Capítulo: Spring MVC - APIs RESTful
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=530292&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=530297
+
+Obs.: links exigem login na plataforma FIAP.

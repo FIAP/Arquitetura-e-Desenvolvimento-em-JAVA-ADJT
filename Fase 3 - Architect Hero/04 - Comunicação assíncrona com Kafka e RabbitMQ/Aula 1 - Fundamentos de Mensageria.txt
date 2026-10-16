@@ -1,0 +1,8 @@
+Aula 1 - Fundamentos de Mensageria
+Fase 3 - Architect Hero
+Capítulo: Comunicação assíncrona com Kafka e RabbitMQ
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=582506&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=582511
+
+Obs.: links exigem login na plataforma FIAP.

@@ -1,0 +1,8 @@
+Aula 4 - Modelagem para NoSQL
+Fase 2 - Data Guardian
+Capítulo: Modelagem de banco de dados
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=549496&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=549501
+
+Obs.: links exigem login na plataforma FIAP.

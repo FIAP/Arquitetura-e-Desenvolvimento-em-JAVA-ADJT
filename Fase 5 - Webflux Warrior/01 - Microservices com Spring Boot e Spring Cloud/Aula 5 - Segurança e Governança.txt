@@ -1,0 +1,8 @@
+Aula 5 - Segurança e Governança
+Fase 5 - Webflux Warrior
+Capítulo: Microservices com Spring Boot e Spring Cloud
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=624057&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=624062
+
+Obs.: links exigem login na plataforma FIAP.

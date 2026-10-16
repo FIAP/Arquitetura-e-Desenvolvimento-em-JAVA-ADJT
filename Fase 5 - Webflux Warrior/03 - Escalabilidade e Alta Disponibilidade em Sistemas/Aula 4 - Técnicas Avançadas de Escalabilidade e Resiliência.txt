@@ -1,0 +1,8 @@
+Aula 4 - Técnicas Avançadas de Escalabilidade e Resiliência
+Fase 5 - Webflux Warrior
+Capítulo: Escalabilidade e Alta Disponibilidade em Sistemas
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=624078&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=624083
+
+Obs.: links exigem login na plataforma FIAP.

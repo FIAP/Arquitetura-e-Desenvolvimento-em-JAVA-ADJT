@@ -1,0 +1,8 @@
+Aula 5 - Estudos de Caso e Melhores Práticas
+Fase 5 - Webflux Warrior
+Capítulo: Escalabilidade e Alta Disponibilidade em Sistemas
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=624079&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=624084
+
+Obs.: links exigem login na plataforma FIAP.

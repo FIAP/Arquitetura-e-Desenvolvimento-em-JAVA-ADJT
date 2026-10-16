@@ -1,0 +1,8 @@
+Aula 2 - Primeiros Passos com AWS Lambda
+Fase 4 - Serverless Strategist
+Capítulo: Serverless Computing
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=614583&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=614588
+
+Obs.: links exigem login na plataforma FIAP.

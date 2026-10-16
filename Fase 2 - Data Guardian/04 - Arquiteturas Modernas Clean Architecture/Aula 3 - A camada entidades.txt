@@ -1,0 +1,8 @@
+Aula 3 - A camada entidades
+Fase 2 - Data Guardian
+Capítulo: Arquiteturas Modernas: Clean Architecture
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=549530&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=549537
+
+Obs.: links exigem login na plataforma FIAP.

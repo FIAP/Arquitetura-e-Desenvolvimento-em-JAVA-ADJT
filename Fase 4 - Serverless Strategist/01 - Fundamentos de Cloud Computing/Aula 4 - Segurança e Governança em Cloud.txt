@@ -1,0 +1,8 @@
+Aula 4 - Segurança e Governança em Cloud
+Fase 4 - Serverless Strategist
+Capítulo: Fundamentos de Cloud Computing
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=614565&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=614569
+
+Obs.: links exigem login na plataforma FIAP.

@@ -1,0 +1,8 @@
+Aula 1 - Introdução à Computação Serverless
+Fase 4 - Serverless Strategist
+Capítulo: Serverless Computing
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=614582&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=614587
+
+Obs.: links exigem login na plataforma FIAP.

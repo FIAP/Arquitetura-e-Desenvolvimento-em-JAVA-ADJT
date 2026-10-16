@@ -1,0 +1,8 @@
+Aula 3 - Implementação de Resiliência em Java
+Fase 3 - Architect Hero
+Capítulo: Arquitetura de Sistemas Distribuídos e Resiliência
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=582499&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=582503
+
+Obs.: links exigem login na plataforma FIAP.

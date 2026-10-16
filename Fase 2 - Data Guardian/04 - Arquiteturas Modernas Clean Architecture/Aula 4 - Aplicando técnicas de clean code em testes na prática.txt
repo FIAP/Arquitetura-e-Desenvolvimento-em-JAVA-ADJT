@@ -1,0 +1,8 @@
+Aula 4 - Aplicando técnicas de clean code em testes na prática
+Fase 2 - Data Guardian
+Capítulo: Arquiteturas Modernas: Clean Architecture
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=549531&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=549538
+
+Obs.: links exigem login na plataforma FIAP.

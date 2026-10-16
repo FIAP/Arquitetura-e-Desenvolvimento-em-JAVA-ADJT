@@ -1,0 +1,8 @@
+Aula 1 - Introdução ao Spring Data JPA
+Fase 2 - Data Guardian
+Capítulo: Spring Data JPA SQL e NoSQL
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=549504&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=549510
+
+Obs.: links exigem login na plataforma FIAP.
