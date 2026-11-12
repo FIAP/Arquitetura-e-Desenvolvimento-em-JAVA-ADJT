@@ -22,22 +22,26 @@ Este repositório contém os materiais complementares divididos por fases, categ
 - [02 - Spring Data JPA SQL e NoSQL](./Fase%202%20-%20Data%20Guardian/02%20-%20Spring%20Data%20JPA%20SQL%20e%20NoSQL)
 - [03 - Testes Unitários e de integração](./Fase%202%20-%20Data%20Guardian/03%20-%20Testes%20Unit%C3%A1rios%20e%20de%20integra%C3%A7%C3%A3o)
 - [04 - Arquiteturas Modernas Clean Architecture](./Fase%202%20-%20Data%20Guardian/04%20-%20Arquiteturas%20Modernas%20Clean%20Architecture)
+- [05 - Engenharia de Software Java Assistida por IA](./Fase%202%20-%20Data%20Guardian/05%20-%20Engenharia%20de%20Software%20Java%20Assistida%20por%20IA)
 
 ## [Fase 3 - Architect Hero](./Fase%203%20-%20Architect%20Hero)
 - [01 - Segurança em Aplicações Java](./Fase%203%20-%20Architect%20Hero/01%20-%20Seguran%C3%A7a%20em%20Aplica%C3%A7%C3%B5es%20Java)
 - [02 - Construindo aplicações com gRPC e GraphQL](./Fase%203%20-%20Architect%20Hero/02%20-%20Construindo%20aplica%C3%A7%C3%B5es%20com%20gRPC%20e%20GraphQL)
 - [03 - Arquitetura de Sistemas Distribuídos e Resiliência](./Fase%203%20-%20Architect%20Hero/03%20-%20Arquitetura%20de%20Sistemas%20Distribu%C3%ADdos%20e%20Resili%C3%AAncia)
 - [04 - Comunicação assíncrona com Kafka e RabbitMQ](./Fase%203%20-%20Architect%20Hero/04%20-%20Comunica%C3%A7%C3%A3o%20ass%C3%ADncrona%20com%20Kafka%20e%20RabbitMQ)
+- [05 - Java e Integração com Large Language Models](./Fase%203%20-%20Architect%20Hero/05%20-%20Java%20e%20Integra%C3%A7%C3%A3o%20com%20Large%20Language%20Models)
 
 ## [Fase 4 - Serverless Strategist](./Fase%204%20-%20Serverless%20Strategist)
 - [01 - Fundamentos de Cloud Computing](./Fase%204%20-%20Serverless%20Strategist/01%20-%20Fundamentos%20de%20Cloud%20Computing)
 - [02 - Deploy em AzureGoogle](./Fase%204%20-%20Serverless%20Strategist/02%20-%20Deploy%20em%20AzureGoogle)
 - [03 - Serverless Computing](./Fase%204%20-%20Serverless%20Strategist/03%20-%20Serverless%20Computing)
 - [04 - Quarkus](./Fase%204%20-%20Serverless%20Strategist/04%20-%20Quarkus)
+- [05 - Java Cloud Native com Quarkus e OpenShift](./Fase%204%20-%20Serverless%20Strategist/05%20-%20Java%20Cloud%20Native%20com%20Quarkus%20e%20OpenShift)
 
 ## [Fase 5 - Webflux Warrior](./Fase%205%20-%20Webflux%20Warrior)
 - [01 - Microservices com Spring Boot e Spring Cloud](./Fase%205%20-%20Webflux%20Warrior/01%20-%20Microservices%20com%20Spring%20Boot%20e%20Spring%20Cloud)
 - [02 - Arquitetura de Microservices com Event Storming e CQRS](./Fase%205%20-%20Webflux%20Warrior/02%20-%20Arquitetura%20de%20Microservices%20com%20Event%20Storming%20e%20CQRS)
 - [03 - Escalabilidade e Alta Disponibilidade em Sistemas](./Fase%205%20-%20Webflux%20Warrior/03%20-%20Escalabilidade%20e%20Alta%20Disponibilidade%20em%20Sistemas)
+- [04 - Quarkus Avançado e Arquiteturas Distribuídas](./Fase%205%20-%20Webflux%20Warrior/04%20-%20Quarkus%20Avan%C3%A7ado%20e%20Arquiteturas%20Distribu%C3%ADdas)
 
 <!-- INDEX:END -->
